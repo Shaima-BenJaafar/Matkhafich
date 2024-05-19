@@ -68,8 +68,8 @@ Watch the demo video to see Matkhafich in action:
 ## Credits
 
 - **Team Members:**
-  - [M'RHAR Kaoutar](https://github.com/kaoutarmrh)
-  - [BEN JAAFAR Chaima](https://github.com/Shaima-BenJaafar)
+  - [M'RHAR Kaoutar](https://www.linkedin.com/in/kaoutar-m%E2%80%99rhar-9051b7234/)
+  - [BEN JAAFAR Chaima](https://www.linkedin.com/in/chaima-ben-jaafar-103481277/)
 
 - **Acknowledgements:**
   - Government of Morocco for providing access to legal documents
