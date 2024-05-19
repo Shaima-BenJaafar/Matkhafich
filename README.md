@@ -55,7 +55,7 @@ To use Matkhafich, simply run the application and interact with the chatbot thro
 ## Demo
 
 Watch the demo video to see Matkhafich in action:
-<div style="position: relative; padding-bottom: 60%; height: 0;"><iframe src="https://flonnect.com/video/embed/a827dfb485c3-4f99-a6d5-112f299dff86" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![Uploading Flonnect_2024-05-19_7bd6ba72-3e12-42d2-9132-a53c53888d6e-ezgif.com-crop.gif…]()
 
 ## Credits
 
