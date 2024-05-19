@@ -21,7 +21,7 @@ OpenHermes beats the majority of other 13B and 7B models on various benchmarks, 
 
 Have a quick look at the results yourself:
 
-![Evaluation](assets/images/screenshot.png)
+![Evaluation](assets/images/evaluation.PNG)
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ To install and run Matkhafich locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shaima-BenJaafar/matkhafich.git
+    git clone https://github.com/Shaima-BenJaafar/Matkhafich.git
     ```
 2. Navigate to the project directory:
     ```bash
