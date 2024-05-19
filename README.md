@@ -58,7 +58,6 @@ Watch the demo video to see Matkhafich in action:
 
 
 ![Flonnect_2024-05-19_7bd6ba72-3e12-42d2-9132-a53c53888d6e-ezgif com-crop](https://github.com/Shaima-BenJaafar/Matkhafich/assets/101644539/89f05d06-8019-4f3d-9123-f7adcc9a2f99)
-https://github.com/Shaima-BenJaafar/Matkhafich/assets/101644539/f3771539-a53b-4ca8-96ef-5b923a6f6964
 
 
 ## Credits
