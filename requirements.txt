@@ -1,0 +1,10 @@
+llama-index
+llama-index-vector-stores-qdrant 
+llama-index-readers-file
+config
+llama-index-embeddings-huggingface
+einops
+llama-index-vector-stores-qdrant 
+llama-index-readers-file
+llama-index-llms-huggingface
+streamlit
