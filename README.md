@@ -57,7 +57,7 @@ To use Matkhafich, simply run the application and interact with the chatbot thro
 Watch the demo video to see Matkhafich in action:
 
 <video width="800" controls>
-  <source src="assets/videos/demo.mp4" type="video/mp4">
+  <source src="assets/videos/demo.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
