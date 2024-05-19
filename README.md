@@ -56,10 +56,8 @@ To use Matkhafich, simply run the application and interact with the chatbot thro
 
 Watch the demo video to see Matkhafich in action:
 
-<video width="800" controls>
-  <source src="assets/videos/demo.avi" type="video/avi">
-  Your browser does not support the video tag.
-</video>
+
+![Flonnect_2024-05-19_7bd6ba72-3e12-42d2-9132-a53c53888d6e-ezgif com-crop](https://github.com/Shaima-BenJaafar/Matkhafich/assets/101644539/89f05d06-8019-4f3d-9123-f7adcc9a2f99)
 
 
 ## Credits
